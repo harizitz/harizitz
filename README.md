@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")(https://harishk-portfolio.netlify.app)
+[![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")](https://harishk-portfolio.netlify.app)
 
 
 <!--
