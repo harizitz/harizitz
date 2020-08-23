@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")]
+[![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")
 ### Hi there 👋
 
 <!--
