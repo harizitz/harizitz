@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/harizitz/harizitz/master/harish.gif "Harish")(https://harishk-portfolio.netlify.app)
+
 
 <!--
 **harizitz/harizitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
